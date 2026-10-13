@@ -1,2 +1,13 @@
-# wmu-timetable-sync
-Public configuration sync storage for WMU Timetable
+# WMU Timetable Sync Storage
+
+这个公开仓库为温医大课表提供 GitHub 配置同步存储。应用会在你明确确认上传后，将当前浏览器的全部配置写入 `users/<GitHub用户名>/config.json`。
+
+## 公开范围
+
+仓库文件、提交记录和历史版本都对所有人公开。配置可能包含学生姓名、学号、课程表、收藏和个人偏好。不要上传不愿公开的信息。覆盖配置会新增 Git 提交，不会自动删除旧历史。
+
+本仓库不加密、不隐藏文件，也不提供账号隔离权限。其他人可以查看所有已提交的配置。不同 GitHub 用户请 Fork 仓库后使用自己的副本。
+
+## 连接方式
+
+在课表网页的「偏好设置 → GitHub 同步」中填写 `AnAcretiondisk9986/wmu-timetable-sync`，再使用仅授权此仓库、且拥有 Contents 读取和写入权限的 GitHub 细粒度个人访问令牌验证连接。令牌只保存在浏览器会话，不会提交到本仓库。
