@@ -1272,12 +1272,12 @@
   ],
   "activeId": "1790126216069-865xve",
   "favorites": [],
-  "theme": "light",
-  "week": 7,
-  "day": 5,
+  "theme": "dark",
+  "week": 6,
+  "day": 4,
   "month": "2026-10",
   "view": "schedule",
   "slotHeight": 48,
   "hideEmptyWeekends": false,
-  "updatedAt": 1792301020619
+  "updatedAt": 1792328218578
 }
