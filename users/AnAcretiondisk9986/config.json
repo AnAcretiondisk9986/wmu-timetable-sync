@@ -1277,7 +1277,7 @@
   "day": 2,
   "month": "2026-10",
   "view": "schedule",
-  "slotHeight": 64,
+  "slotHeight": 48,
   "hideEmptyWeekends": false,
-  "updatedAt": 1792458677500
+  "updatedAt": 1792465844281
 }
