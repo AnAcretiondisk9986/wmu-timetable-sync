@@ -1239,7 +1239,33 @@
           "hidden": false
         }
       ],
-      "customEvents": [],
+      "customEvents": [
+        {
+          "id": "custom-1791901182020-zxsx4",
+          "kind": "custom",
+          "title": "组织学与胚胎学实验考",
+          "description": "",
+          "room": "2203",
+          "week": 12,
+          "day": 1,
+          "startTime": "12:30",
+          "endTime": "13:00",
+          "color": "gold",
+          "type": "custom",
+          "label": "自定义",
+          "campus": "",
+          "teacher": "",
+          "credit": "—",
+          "hidden": false,
+          "weeks": [
+            {
+              "start": 12,
+              "end": 12,
+              "parity": "all"
+            }
+          ]
+        }
+      ],
       "courseAliases": [],
       "updatedAt": 1790126216069
     }
@@ -1248,10 +1274,10 @@
   "favorites": [],
   "theme": "light",
   "week": 12,
-  "day": 5,
+  "day": 3,
   "month": "2026-11",
   "view": "schedule",
   "slotHeight": 60,
   "hideEmptyWeekends": false,
-  "updatedAt": 1795740969767
+  "updatedAt": 1795847112479
 }
